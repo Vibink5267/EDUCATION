@@ -1,0 +1,25 @@
+EXTENSION REQUEST SUMMARY
+Recommendations only. Faculty make every final decision.
+
+Total requests: 25
+LLM fallbacks used: 0
+
+By recommendation:
+  within_policy: 8
+  needs_faculty_review: 7
+  needs_more_info: 10
+
+By reason:
+  medical: 8
+  family: 6
+  technical: 3
+  event: 1
+  workload: 2
+  other: 5
+
+By course:
+  CS101: 7
+  EE104: 4
+  MA102: 5
+  PH103: 4
+  none: 5
